@@ -40,16 +40,6 @@ FloraCure is a smart, web-based plant care assistant built with Django. It helps
 # 1. Clone the repository
 git clone https://github.com/FatimaSayyed27/FloraCure.git
 cd FloraCure
-# 2. Create & activate virtual environment
-python -m venv venv
-venv\Scripts\activate      # Windows
-source venv/bin/activate    # macOS/Linux
-# 3. Install dependencies
-pip install -r requirements.txt
-# 4. Apply migrations
-python manage.py migrate
-# 5. Run the development server
-python manage.py runserver
 ```
 Visit `http://127.0.0.1:8000` in your browser 🌿
 ---
@@ -88,4 +78,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 ## 📄 License
 This project is open source and free to use for educational purposes.
 ---
-<p align="center">Built with 💚 using Django & Tailwind CSS</p> isse chota aur acha bhi
+<p align="center">Built with 💚 using Django & Tailwind CSS</p> 
